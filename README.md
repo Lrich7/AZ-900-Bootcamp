@@ -35,6 +35,31 @@ images/    Diagrams and screenshots
 
 This repository documents my Azure learning journey while building practical knowledge of Microsoft cloud technologies. It serves as both a study resource and a technical portfolio demonstrating continuous learning and documentation skills.
 
+## Resources
+
+### Official Microsoft
+
+- Microsoft Learn – Azure Fundamentals (AZ-900)
+- Microsoft Azure Documentation
+- Azure Architecture Center
+
+### Practice
+
+- Microsoft Learn Sandbox
+- Azure Free Account
+
+### Reference
+
+- Azure Service Level Agreements (SLAs)
+- Azure Well-Architected Framework
+
+## Study Notes
+
+- [Cloud Concepts](docs/01-Cloud-Concepts.md)
+- [Azure Networking](docs/04-Networking.md)
+- [Azure Storage](docs/05-Storage.md)
+- [Identity & Access Management](docs/06-Identity.md)
+
 ## Status
 
 🚧 Work in Progress — new notes, labs, and reference material are added regularly.
