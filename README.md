@@ -2,6 +2,28 @@
 
 A personal learning repository for Microsoft Azure Fundamentals (AZ-900), containing study notes, technical references, and hands-on lab exercises.
 
+## Table of Contents
+
+- [Objectives](#objectives)
+- [Topics](#topics)
+- [Repository Structure](#repository-structure)
+- [Resources](#resources)
+- [Purpose](#purpose)
+- [Status](#status)
+
+## Progress
+
+- ✅ Repository created
+- 🚧 Cloud Concepts
+- ⏳ Azure Architecture
+- ⏳ Azure Services
+- ⏳ Networking
+- ⏳ Storage
+- ⏳ Identity & Access Management
+- ⏳ Security
+- ⏳ Governance
+- ⏳ Pricing & Cost Management
+  
 ## Objectives
 
 - Develop a strong understanding of Azure cloud concepts
@@ -25,7 +47,7 @@ A personal learning repository for Microsoft Azure Fundamentals (AZ-900), contai
 
 ## Repository Structure
 
-```
+```text
 docs/      Study guides and technical notes
 labs/      Hands-on exercises and lab documentation
 images/    Diagrams and screenshots
@@ -36,8 +58,6 @@ images/    Diagrams and screenshots
 This repository documents my Azure learning journey while building practical knowledge of Microsoft cloud technologies. It serves as both a study resource and a technical portfolio demonstrating continuous learning and documentation skills.
 
 ## Resources
-
-### Official Microsoft
 
 - Microsoft Learn – Azure Fundamentals (AZ-900)
 - Microsoft Azure Documentation
