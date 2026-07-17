@@ -1,2 +1,2 @@
 # AZ-900-Bootcamp
-This is a bootcamp for working on the AZ-900 certification
+This repository contains my personal study guide, notes, and lab exercises for Microsoft Azure Fundamentals (AZ-900).
