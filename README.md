@@ -1,5 +1,9 @@
 # AZ-900 Bootcamp
 
+![Status](https://img.shields.io/badge/status-work%20in%20progress-yellow)
+![Azure](https://img.shields.io/badge/Azure-AZ--900-0078D4)
+
+
 A personal learning repository for Microsoft Azure Fundamentals (AZ-900), containing study notes, technical references, and hands-on lab exercises.
 
 ## Table of Contents
@@ -31,6 +35,14 @@ A personal learning repository for Microsoft Azure Fundamentals (AZ-900), contai
 - Reinforce learning through hands-on labs
 - Build a reusable technical reference for future cloud and systems administration work
 
+## Technologies
+
+- Microsoft Azure
+- Microsoft Entra ID
+- Azure Portal
+- Azure CLI
+- PowerShell
+  
 ## Topics
 
 - Cloud Concepts
