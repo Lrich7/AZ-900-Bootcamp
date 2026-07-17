@@ -38,6 +38,15 @@ A personal learning repository for Microsoft Azure Fundamentals (AZ-900), contai
 - Reinforce learning through hands-on labs
 - Build a reusable technical reference for future cloud and systems administration work
 
+## Skills Demonstrated
+
+- Cloud Fundamentals
+- Technical Documentation
+- Microsoft Azure
+- Identity & Access Management
+- Infrastructure Concepts
+- Self-Directed Learning
+
 ## Technologies
 
 - Microsoft Azure
