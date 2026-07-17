@@ -9,9 +9,12 @@ A personal learning repository for Microsoft Azure Fundamentals (AZ-900), contai
 ## Table of Contents
 
 - [Objectives](#objectives)
+- [Progress](#progress)
+- [Technologies](#technologies)
 - [Topics](#topics)
 - [Repository Structure](#repository-structure)
 - [Resources](#resources)
+- [Study Notes](#study-notes)
 - [Purpose](#purpose)
 - [Status](#status)
 
